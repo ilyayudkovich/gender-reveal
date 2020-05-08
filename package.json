@@ -2,7 +2,7 @@
   "name": "brians-boy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Brian-Doucet.github.io/brians-boy",
+  "homepage": "http://Brian-Doucet.github.io/gender-reveal/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
