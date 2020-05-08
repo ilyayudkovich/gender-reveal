@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/brians-boy/static/css/main.d172133a.chunk.css",
-    "main.js": "/brians-boy/static/js/main.b64c0c87.chunk.js",
-    "main.js.map": "/brians-boy/static/js/main.b64c0c87.chunk.js.map",
-    "runtime-main.js": "/brians-boy/static/js/runtime-main.0d041ac2.js",
-    "runtime-main.js.map": "/brians-boy/static/js/runtime-main.0d041ac2.js.map",
-    "static/js/2.496f78b9.chunk.js": "/brians-boy/static/js/2.496f78b9.chunk.js",
-    "static/js/2.496f78b9.chunk.js.map": "/brians-boy/static/js/2.496f78b9.chunk.js.map",
-    "index.html": "/brians-boy/index.html",
-    "precache-manifest.7a182f471e41860260d5f658d334ae16.js": "/brians-boy/precache-manifest.7a182f471e41860260d5f658d334ae16.js",
-    "service-worker.js": "/brians-boy/service-worker.js",
-    "static/css/main.d172133a.chunk.css.map": "/brians-boy/static/css/main.d172133a.chunk.css.map",
-    "static/js/2.496f78b9.chunk.js.LICENSE.txt": "/brians-boy/static/js/2.496f78b9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/brians-boy/static/media/logo.5d5d9eef.svg"
+    "main.css": "/gender-reveal/static/css/main.d172133a.chunk.css",
+    "main.js": "/gender-reveal/static/js/main.2428bf6b.chunk.js",
+    "main.js.map": "/gender-reveal/static/js/main.2428bf6b.chunk.js.map",
+    "runtime-main.js": "/gender-reveal/static/js/runtime-main.873f1c95.js",
+    "runtime-main.js.map": "/gender-reveal/static/js/runtime-main.873f1c95.js.map",
+    "static/js/2.496f78b9.chunk.js": "/gender-reveal/static/js/2.496f78b9.chunk.js",
+    "static/js/2.496f78b9.chunk.js.map": "/gender-reveal/static/js/2.496f78b9.chunk.js.map",
+    "index.html": "/gender-reveal/index.html",
+    "precache-manifest.d75a29f36dbf846d7a87334472995336.js": "/gender-reveal/precache-manifest.d75a29f36dbf846d7a87334472995336.js",
+    "service-worker.js": "/gender-reveal/service-worker.js",
+    "static/css/main.d172133a.chunk.css.map": "/gender-reveal/static/css/main.d172133a.chunk.css.map",
+    "static/js/2.496f78b9.chunk.js.LICENSE.txt": "/gender-reveal/static/js/2.496f78b9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gender-reveal/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d041ac2.js",
+    "static/js/runtime-main.873f1c95.js",
     "static/js/2.496f78b9.chunk.js",
     "static/css/main.d172133a.chunk.css",
-    "static/js/main.b64c0c87.chunk.js"
+    "static/js/main.2428bf6b.chunk.js"
   ]
 }
