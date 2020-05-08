@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          IT'S A BOY
+          IT'S A BOY!
         </a>
       </header>
     </div>
